@@ -1,3 +1,3 @@
 # spring-data-jpa
-# refer
+# for reference 
 https://www.netsurfingzone.com/jpa/jpa-criteriabuilder-example/
